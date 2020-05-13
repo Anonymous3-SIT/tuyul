@@ -21,7 +21,7 @@ This code is made for application nuyul
 
 ```
 
-Termux :
+*Termux :*
 
 $ pkg install git python python2
 
@@ -41,7 +41,7 @@ $ cd tuyul
 
 $ sh bot.sh
 
-Kali Linux :
+*Kali Linux :*
 
 $ sudo apt-get install git python python2
 
